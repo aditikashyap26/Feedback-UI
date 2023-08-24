@@ -29,6 +29,7 @@ btnE1.addEventListener("click", () => {
         ;
 })
 
+
 function removeActive(){
     ratingE1s.forEach((ratingE1)=>{
         ratingE1.classList.remove("active");
